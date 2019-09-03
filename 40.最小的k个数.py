@@ -1,4 +1,4 @@
-# 解法一，利用快排的partition函数，复杂度O（n）
+# 解法一，通过了牛客，利用快排的partition函数，复杂度O（n）
 
 import random
 
